@@ -1,5 +1,6 @@
 # planets
-Example from Data Carpentry Workshop - creating a conflict
+
+from Data Carpentry Workshop - conflict exercise
 
 We started working on this yesterday.
 
