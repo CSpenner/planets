@@ -1,5 +1,5 @@
 # planets
-Example from Data Carpentry Workshop
+Example from Data Carpentry Workshop - creating a conflict
 
 We started working on this yesterday.
 
